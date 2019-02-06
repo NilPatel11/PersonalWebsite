@@ -2,7 +2,9 @@
     height: 50px;
 
 }
-
+body{
+    background-color: #000000;
+}
 #navbar{
   margin-top: 108px;
 }
